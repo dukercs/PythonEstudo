@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96e4667e-e7c0-4450-ad26-f17cf955ca02" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fonteskivy">
+      <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/mtdev.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/gstplayer" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/gstplayer/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/ddsfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/vidcore_lite" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/vidcore_lite/bcm.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lib/vidcore_lite/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/rst.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/image.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/label.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/popup.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/video.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/drag.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/cover.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/emacs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/focus.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/button.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/knspace.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/touchripple.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/togglebutton.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/codenavigation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/behaviors/compoundselection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/bubble.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/button.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/camera.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/layout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/slider.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/switch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/widget.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/sandbox.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/scatter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/spinner.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/carousel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/checkbox.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/dropdown.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recycleview" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recycleview/views.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recycleview/layout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recycleview/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recycleview/datamodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/settings.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/splitter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/treeview.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/accordion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/actionbar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/boxlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/codeinput.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/modalview.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/textinput.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/vkeyboard.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/gridlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/pagelayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/scrollview.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/colorpicker.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/filechooser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/floatlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/progressbar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/stacklayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/stencilview.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/tabbedpanel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/videoplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/anchorlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/effectwidget.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/togglebutton.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recyclelayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/scatterlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/screenmanager.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/gesturesurface.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/relativelayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recycleboxlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/uix/recyclegridlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/gl" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/gl/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/markup.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/text_pil.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/text_sdl2.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/text_pango.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/text_pygame.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/text_layout.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/_text_sdl2.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/text/text_layout.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio/audio_pygame.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio/audio_avplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio/audio_gstplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio/audio_ffpyplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/audio/audio_sdl2.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_dds.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_gif.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_pil.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_tex.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_sdl2.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_pygame.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/img_ffpyplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/image/_img_sdl2.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/video" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/video/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/video/video_null.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/video/video_ffmpeg.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/video/video_gstplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/video/video_ffpyplayer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/camera" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/camera/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/camera/camera_gi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/camera/camera_opencv.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/camera/camera_android.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/camera/camera_picamera.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_sdl2.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_info.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_attrs.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_pygame.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_egl_rpi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_x11.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/window_info.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/window/_window_sdl2.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/spelling" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/spelling/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/spelling/spelling_enchant.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/spelling/spelling_osxappkit.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/_clipboard_ext.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_gtk3.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_sdl2.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_xsel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_dummy.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_xclip.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_pygame.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_android.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_nspaste.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_winctypes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/clipboard_dbusklipper.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/clipboard/_clipboard_sdl2.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/core/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/glsl" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/glsl/header.fs" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/glsl/header.vs" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/glsl/default.fs" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/glsl/default.vs" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/glsl/default.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-16.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-24.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-32.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-48.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-64.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-128.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-256.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/logo/kivy-icon-512.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts/DejaVuSans.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts/Roboto-Bold.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts/Roboto-Italic.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts/Roboto-Regular.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts/Roboto-BoldItalic.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/fonts/RobotoMono-Regular.ttf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/cursor.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/background.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/testpattern.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/defaultshape.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/image-loading.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/defaulttheme-0.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/images/defaulttheme.atlas" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/style.kv" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/de.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/de_CH.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/en_US.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/fr_CH.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/azerty.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/qwerty.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/keyboards/qwertz.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/data/settings_kivy.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/deps" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/deps/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lang" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lang/parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lang/builder.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/lang/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libz-eb09ad1d.so.1.2.3" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libogg-d7e039b9.so.0.6.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libFLAC-d2bd90ad.so.8.2.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libtiff-e6ae6939.so.3.9.4" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libwebp-9d84cf2c.so.5.0.3" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libjpeg-7feae879.so.62.0.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libpng12-640ca796.so.0.49.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libvorbis-bc2c45ba.so.0.4.3" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libXxf86vm-ce06a3b4.so.1.0.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libmodplug-557acd7e.so.1.0.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libSDL2-2-7db2c035.0.so.0.9.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libfreetype-257d61ad.so.6.3.22" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libsamplerate-f26ef3ac.so.0.1.7" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libvorbisfile-e27714a1.so.3.3.2" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libSDL2_ttf-2-91a0988e.0.so.0.14.1" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libSDL2_image-2-bab18595.0.so.0.2.2" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/.libs/libSDL2_mixer-2-ff857db7.0.so.0.2.2" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/dejitter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/doubletap.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/tripletap.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/ignorelist.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/calibration.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/postproc/retaintouch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/shape.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/tuio.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/mouse.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/mtdev.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/wm_pen.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/hidinput.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/mactouch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/wm_touch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/wm_common.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/leapfinger.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/linuxwacom.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/probesysfs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/providers/androidjoystick.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/factory.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/provider.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/recorder.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/input/motionevent.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/common.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/testkv.kv" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/conftest.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/sample1.ogg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_app.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_lang.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_audio.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_clock.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_fonts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_image.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_video.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_screen.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_vector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_widget.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_button.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_knspace.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_storage.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_graphics.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/unicode_font.zip" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_clipboard.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/unicode_files.zip" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_animations.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_fbo_py2py3.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_properties.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_layout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_slider.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_widget.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_urlrequest.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_doc_gallery.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_filechooser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_imageloader.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_multistroke.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_rst_replace.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_widget_walk.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_window_info.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_invalid_lang.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_lang_complex.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/visual_test_label.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_actionbar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_boxlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_textinput.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/perf_test_textinput.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_asyncimage.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_gridlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_scrollview.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_stacklayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_module_inspector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_anchorlayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_uix_relativelayout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_filechooser_unicode.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_mouse_multitouchsim.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tests/test_lang_pre_process_and_post_process.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tab.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/ring.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/close.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/bubble.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/button.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/spinner.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tab_btn.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/overflow.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/separator.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/textinput.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_bar.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/bubble_btn.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_h.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_item.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_view.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_on.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/progressbar.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tree_closed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tree_opened.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_group.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/bubble_arrow.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_off.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tab_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/image-missing.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/selector_left.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/slider_cursor.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_down.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_grip.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/switch-button.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/button_pressed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/selector_right.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/button_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/previous_normal.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/selector_middle.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/spinner_pressed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_down_h.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_grip_h.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tab_btn_pressed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_item_down.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/audio-volume-low.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/filechooser_file.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/spinner_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tab_btn_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/textinput_active.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_group_down.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/audio-volume-high.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_radio_on.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/player-background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/switch-background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/audio-volume-muted.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/bubble_btn_pressed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_radio_off.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/filechooser_folder.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/sliderh_background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/sliderv_background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/textinput_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_key_down.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/audio-volume-medium.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/media-playback-stop.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/player-play-overlay.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_disabled_h.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_disabled_on.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/filechooser_selected.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/media-playback-pause.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/media-playback-start.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/modalview-background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_key_normal.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/action_group_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_disabled_off.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/progressbar_background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/slider_cursor_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_disabled_down.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/switch-button_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/button_disabled_pressed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/splitter_disabled_down_h.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/tab_btn_disabled_pressed.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/textinput_disabled_active.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_radio_disabled_on.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/switch-background_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/checkbox_radio_disabled_off.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/sliderh_background_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/sliderv_background_disabled.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_disabled_key_down.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_disabled_background.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_disabled_key_normal.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/highlight" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/highlight/kivy.vim" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/highlight/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/highlight/kivy-mode.el" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/highlight/kivy.tmLanguage" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/highlight/kivy.json-tmlanguage" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/factory.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/pyinstaller_hooks" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/pyinstaller_hooks/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/pyinstaller_hooks/__main__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/pyinstaller_hooks/hook-kivy.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/packaging/pyinstaller_hooks/pyi_rth_kivy.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/report.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/kviewer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/gles_compat" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/gles_compat/gl2.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/gles_compat/subset_gles.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/pep8checker" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/pep8checker/pep8.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/pep8checker/pep8kivy.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/pep8checker/pre-commit.githook" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/benchmark.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/stub-gl-debug.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/generate-icons.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/texturecompress.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/tools/changelog_parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/app.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/extras" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/extras/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/extras/highlight.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/garden" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/garden/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/effects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/effects/scroll.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/effects/kinetic.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/effects/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/effects/dampedscroll.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/effects/opacityscroll.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include/config.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include/config.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include/gl2platform.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include/gl_redirect.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include/khrplatform.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/include/common_subset.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/cursor.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/screen.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/console.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/monitor.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/recorder.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/inspector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/joycursor.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/touchring.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/keybinding.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/showborder.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/webdebugger.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/modules/_webdebugger.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/network" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/network/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/network/urlrequest.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/storage" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/storage/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/storage/dictstore.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/storage/jsonstore.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/storage/redisstore.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/atlas.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/clock.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/event.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/fbo.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/svg.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vbo.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/buffer.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/common.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/memory.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/shader.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vertex.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend/cgl_gl.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend/cgl_glew.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend/cgl_mock.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend/cgl_sdl2.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl_backend/cgl_debug.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/context.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/opcodes.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/texture.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/compiler.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/img_tools.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/tesselator.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/instructions.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/opengl_utils.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/transformation.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/gl_debug_logger.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/opengl_utils_def.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vertex_instructions.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/context_instructions.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/stencil_instructions.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vertex_instructions_line.pxi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/cgl.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/fbo.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/svg.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vbo.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/buffer.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/opengl.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/shader.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vertex.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/context.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/texture.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/compiler.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/tesselator.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/instructions.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/opengl_utils.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/transformation.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/gl_instructions.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/vertex_instructions.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/context_instructions.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/scissor_instructions.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/graphics/stencil_instructions.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/config.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/loader.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/logger.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/vector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/_clock.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/_event.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/context.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/factory.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/gesture.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/metrics.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/support.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/geometry.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/animation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/resources.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/weakmethod.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/interactive.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/multistroke.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/properties.pxd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/setupconfig.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/factory_registers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/_clock.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/_event.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/weakproxy.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/kivy/properties.cpython-36m-x86_64-linux-gnu.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+      <favorite_root url="file://$USER_HOME$/.virtualenvs/k36/lib/python3.6/site-packages/pip/__main__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>%d</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1RYmFHc92obHetHsxq0ZbUOLB0z" />
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Hello27">
+    <configuration name="27.entrada_de_dados" type="PythonConfigurationType" factoryName="Python">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/27.entrada_de_dados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="30.potenciacao.e.radiciacao" type="PythonConfigurationType" factoryName="Python">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/30.potenciacao.e.radiciacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="41.resolucao_de_problemas" type="PythonConfigurationType" factoryName="Python">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/41.resolucao_de_problemas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="44.operadores_relacionais_compostos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/44.operadores_relacionais_compostos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="45.operadores_relacionais_pratica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/45.operadores_relacionais_pratica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="46.operadores_logicos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/46.operadores_logicos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="47.blocos_de_instrucao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/47.blocos_de_instrucao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="50.exercicios_pratikos2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/50.exercicios_pratikos2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello27" type="PythonConfigurationType" factoryName="Python">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula1" type="PythonConfigurationType" factoryName="Python">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/aula1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.27.entrada_de_dados" />
+      <item itemvalue="Python.30.potenciacao.e.radiciacao" />
+      <item itemvalue="Python.41.resolucao_de_problemas" />
+      <item itemvalue="Python.Hello27" />
+      <item itemvalue="Python.aula1" />
+      <item itemvalue="Python.44.operadores_relacionais_compostos" />
+      <item itemvalue="Python.45.operadores_relacionais_pratica" />
+      <item itemvalue="Python.46.operadores_logicos" />
+      <item itemvalue="Python.47.blocos_de_instrucao" />
+      <item itemvalue="Python.50.exercicios_pratikos2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.50.exercicios_pratikos2" />
+        <item itemvalue="Python.47.blocos_de_instrucao" />
+        <item itemvalue="Python.46.operadores_logicos" />
+        <item itemvalue="Python.45.operadores_relacionais_pratica" />
+        <item itemvalue="Python.44.operadores_relacionais_compostos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96e4667e-e7c0-4450-ad26-f17cf955ca02" name="Default Changelist" comment="" />
+      <created>1560886521509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560886521509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>n == 50</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>n</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>n=20</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a == b</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
