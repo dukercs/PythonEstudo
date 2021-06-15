@@ -6,12 +6,10 @@ import variaveis
 
 # Conf email
 server = smtplib.SMTP(variaveis.hostemail)
-FROM = variaveis.mailfrom
-TO = variaveis.mailto
 
 if not os.path.isfile(variaveis.home + '/' + variaveis.conffile):
-  MSG = '[GLPI RELATORIO] Erro ao abrir arquivo conf \n\n Script não encontrou o arquivo {} em {}\n Verifique o local e o nome dentro de variaveis.py'.format(variaveis.conffile, variaveis.home)
-  server.sendmail(variaveis.mailfrom, variaveis.mailto, MSG.encode('utf-8'))
+  MSG = 'Subject: [GLPI RELATORIO] Erro ao abrir arquivo conf\n\nScript não encontrou o arquivo {} em {}\n Verifique o local e o nome dentro de variaveis.py'.format(variaveis.conffile, variaveis.home)
+  server.sendmail(variaveis.mailfrom, variaveis.mailto, MSG.encode('ansi'))
   os._exit(os.EX_OSFILE)
 
 # CONEXAO COM BANCO

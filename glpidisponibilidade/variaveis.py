@@ -6,7 +6,7 @@ hostemail = "openrelay.datatraffic.com.br"
 mailfrom = "infra@datatraffic.com.br"
 mailto = "rodolpho.stach@datatraffic.com.br"
 
-conffile = "my.cnf"
+conffile = ".my.cnf"
 hostglpi = "10.0.1.39"
 database = "glpi"
 
