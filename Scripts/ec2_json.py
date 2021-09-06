@@ -25,20 +25,21 @@ def main(argv):
         arq = json.load(f)
 
     for campos in arq['Reservations']:
+        # zerar o dict disks a cada iteração do for acima pois só quero para cada instância
         disks = {'unidade':[]}
-        print("ID: {}".format(campos['Instances'][0]['InstanceId']))
+        #print("ID: {}".format(campos['Instances'][0]['InstanceId']))
         for discos in campos['Instances'][0]['BlockDeviceMappings']:
                         disks['unidade'].append(discos['Ebs']['VolumeId'])
-        print(type(discos))
-        print(disks)
+        #print(type(discos))
+        #print(disks)
         lista = campos['Instances'][0]['Tags']
         for tags in lista:
             if tags['Key'] == 'Name':
-                print("Nome: {}".format(tags['Value']))
+                # print("Nome: {}".format(tags['Value']))
                 resultdict.append({"ID": campos['Instances'][0]['InstanceId'],"Tipo": campos['Instances'][0]['InstanceType'],"Nome": tags['Value'],"Discos": disks['unidade']})
         
 
-    print(resultdict)
+    #print(resultdict)
 
     with open('saidacsv.csv', 'w') as arquivocsv: 
         escreve = csv.DictWriter(arquivocsv, fieldnames=titulos)
