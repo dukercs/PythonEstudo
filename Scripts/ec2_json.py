@@ -5,11 +5,12 @@ import csv
 
 # Pegando o nome do arquivo por getopts
 def main(argv):
-    jsonfile = '/mnt/d/TEMP/us-east1.json'
+    jsonfile = ''
+    csvfile = ''
     resultdict = []
     titulos = ['ID', 'Tipo', 'Nome', 'Discos']
     try:
-        opts, args = getopt.getopt(argv,"hi:")
+        opts, args = getopt.getopt(argv,"hi:o:")
     except getopt.GetoptError:
         print('Use ec2_json.py -i arquivo.json')
         sys.exit(2)
@@ -19,6 +20,8 @@ def main(argv):
             sys.exit()
         elif opt == '-i':
             jsonfile = arg
+        elif opt == '-o':
+            csvfile = arg
     print('Arquivo json: {}'.format(jsonfile))
     #Abrindo o arquivo
     with open(jsonfile,'r') as f:
@@ -41,7 +44,7 @@ def main(argv):
 
     #print(resultdict)
 
-    with open('saidacsv.csv', 'w') as arquivocsv: 
+    with open(csvfile, 'w') as arquivocsv: 
         escreve = csv.DictWriter(arquivocsv, fieldnames=titulos)
         escreve.writeheader()
         escreve.writerows(resultdict)
