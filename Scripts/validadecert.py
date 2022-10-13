@@ -15,7 +15,8 @@ lista = (
  "cobranca.planopasa.com.br",
  "intranet.planopasa.com.br",
  "wwwt.connectmed.com.br",
- "smtp.planopasa.com.br"
+ "smtp.planopasa.com.br",
+ "www.saudepasa.com.br",
  )
 
 
