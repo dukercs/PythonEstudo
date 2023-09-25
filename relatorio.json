@@ -1,0 +1,122 @@
+[
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste",
+    "{#DIRLEN}": 0
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021",
+    "{#DIRLEN}": 0
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/02",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/11",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/05",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/12",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/01",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/07",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/08",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/04",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/09",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/06",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/10",
+    "{#DIRLEN}": 2
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2021/03",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022",
+    "{#DIRLEN}": 0
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/02",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/11",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/05",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/12",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/01",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/07",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/08",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/04",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/09",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/06",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/10",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/03",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2023",
+    "{#DIRLEN}": 0
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2023/02",
+    "{#DIRLEN}": 0
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2023/01",
+    "{#DIRLEN}": 0
+  }
+]

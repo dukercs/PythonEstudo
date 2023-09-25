@@ -1,0 +1,54 @@
+[
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022",
+    "{#DIRLEN}": 0
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/02",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/11",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/05",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/12",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/01",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/07",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/08",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/04",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/09",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/06",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/10",
+    "{#DIRLEN}": 1
+  },
+  {
+    "{#DIRNAME}": "/tmp/ValeTeste/2022/03",
+    "{#DIRLEN}": 1
+  }
+]
